@@ -1,0 +1,11 @@
+--- Sentinel Security Audit Report ---
+Timestamp: Sun Apr 19 12:15:16 AM PKT 2026
+
+Active Network Listeners:
+tcp   LISTEN 0      4096       127.0.0.1:46823      0.0.0.0:*          
+tcp   LISTEN 0      4096   127.0.0.53%lo:53         0.0.0.0:*          
+tcp   LISTEN 0      4096         0.0.0.0:22         0.0.0.0:*          
+tcp   LISTEN 0      4096       127.0.0.1:631        0.0.0.0:*          
+tcp   LISTEN 0      4096      127.0.0.54:53         0.0.0.0:*          
+tcp   LISTEN 0      4096            [::]:22            [::]:*          
+tcp   LISTEN 0      4096           [::1]:631           [::]:*          
