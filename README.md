@@ -12,4 +12,4 @@ Sentinel is a Bash-based automation tool designed to harden Linux environments b
 2. `sudo ./sentinel.sh`
 
 ## 👤 Author
-**Dushant Raja** - *BSCS 6th Semester | SZABIST Islamabad*
+**Dushant Raja** 
